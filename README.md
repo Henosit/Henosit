@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Henosit
 - 👀 I’m interested in developing games and applications.
-- 🌱 My programming C, C++ and C#, Python, Java and Unity. I am a Computer Science student.
+- 🌱 My programming languages are C, C++ and C#, Python, Java and Unity. I am a Computer Science student.
 
 <!---
 Henosit/Henosit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
