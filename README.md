@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henosit
-- 👀 I’m interested in developing games and applications.
+- 👀 I’m interested in developing games and Applications, and Machine Learning.
 - 🌱 My programming languages are C, C++ and C#, Python, Java and Unity. I am a Computer Science student.
 
 <!---
