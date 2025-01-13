@@ -4,4 +4,4 @@
 
 💻 Proficient in C, C++, C#, Python (with a focus on machine learning), Java, and Linux. Experienced in web and Android app development, as well as Unity game development. Skilled in managing databases using MySQL and MongoDB.
 
-🎓 Currently in my third year of Computer Science studies.
+🎓 B.Sc. in Computer Science.
